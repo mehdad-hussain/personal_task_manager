@@ -1,0 +1,14 @@
+{
+    "tasks": {
+        "get": "tasks",
+        "post": "tasks",
+        "delete": "tasks",
+        "update": "tasks"
+    },
+    "categories": {
+        "get": "categories",
+        "post": "categories",
+        "delete": "categories",
+        "update": "categories"
+    }
+}
