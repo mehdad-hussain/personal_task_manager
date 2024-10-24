@@ -94,7 +94,7 @@ export function TasksTable({
   return (
     <DataTable table={table}>
       <DataTableToolbar table={table} filterFields={filterFields}>
-        <TasksTableToolbarActions table={table} />
+        <TasksTableToolbarActions />
       </DataTableToolbar>
     </DataTable>
   );
